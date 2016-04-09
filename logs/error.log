@@ -1,0 +1,33 @@
+2016-04-07 15:31:42 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-04-07 15:31:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /test_app/webroot/
+Stack Trace:
+#0 F:\Dev\8hagiwww\test_app\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-09 05:28:08 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-04-09 05:28:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Webroot could not be found.
+Exception Attributes: array (
+  'class' => 'Webroot',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /test_app/webroot/
+Stack Trace:
+#0 F:\Dev\8hagiwww\test_app\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-09 05:48:08 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-04-09 05:50:23 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-04-09 08:29:13 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-04-09 08:46:23 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-04-09 08:51:07 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
